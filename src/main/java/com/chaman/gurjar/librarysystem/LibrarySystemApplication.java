@@ -1,13 +1,13 @@
 package com.chaman.gurjar.librarysystem;
 
+import com.chaman.gurjar.librarysystem.config.LibrarySystemConfig;
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+
 public class LibrarySystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LibrarySystemApplication.class, args);
+		SpringApplication.run(LibrarySystemConfig.class, args);
 	}
 
 }
