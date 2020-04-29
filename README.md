@@ -8,6 +8,6 @@ Use Of
         * One to One Mapping Uni and Bi Directional.
         * Many to One Mapping Uni and Bi Directional.
         * Many to Many Mapping Uni and Bi Directional.
-    4.Liquibase, <br />
-    5.JUnit Tests, <br />
-    6.Hibernate Validations etc.<br />
+    4.Liquibase, 
+    5.JUnit Tests, 
+    6.Hibernate Validations etc.
